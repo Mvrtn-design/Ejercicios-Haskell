@@ -1,1 +1,11 @@
 # CodigosHaskell
+- Tuplas
+- Patrones
+- Ajuste de patrones
+- Recursividad final y no final
+- If then else
+- Case
+- Listas
+- Listas Anidadas
+- Lista por comprensión
+- Plegado a la derecha
